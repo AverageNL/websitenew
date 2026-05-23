@@ -20,6 +20,20 @@ Here is a selection of my recent and most notable work.
 
 ### Video Content
 
+<div style="aspect-ratio: 16 / 9; width: 100%; border-radius: var(--pico-border-radius); overflow: hidden; margin-bottom: 2rem; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <iframe 
+    width="100%" 
+    height="100%" 
+    src="https://www.youtube.com/embed/31pwkoNl2vY?si=WahCWiKcUNytS8PJ" 
+    title="Video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+I also present in-depth tech video's. Here are a few other recent videos I have featured in:
+
 * **[ASML's latest chip-making machine is heading to Belgium, and we got to tag along!]([https://tweakers.net](https://www.youtube.com/watch?v=31pwkoNl2vY))**
     *ASML's latest High-NA EUV tools are promising to reshape the semiconductor industry for years to come. I got to tag along with a shipment, explain why EUV is so important, and watched it get installed inside a cleanroom.*
 * **[From sand to smartphone: this is how chips are made! ](https://www.youtube.com/watch?v=Linky8HfEr4)**
