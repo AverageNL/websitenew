@@ -1,0 +1,7 @@
+title: Daan van Monsjou
+author: Daan van Monsjou
+description: Technology Editor at Tweakers writing about semiconductors and PC hardware.
+url: "https://daanvanmonsjou.com"
+
+# We disable the default Jekyll theme to use our own custom layout
+theme: null
