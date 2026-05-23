@@ -6,7 +6,7 @@ title: Home
 <div class="grid" style="align-items: center; gap: 2rem;">
   
   <div style="text-align: center;">
-    <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Daan van Monsjou" style="border-radius: 50%; max-width: 250px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="{{ '/images/profile.jpeg' | relative_url }}" alt="Daan van Monsjou" style="border-radius: 50%; max-width: 250px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   </div>
 
   <div>
